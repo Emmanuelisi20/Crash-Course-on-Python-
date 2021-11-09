@@ -3,6 +3,8 @@ This is a self learning am doing from coursera to improve my programming skills 
 
 First Programming Concepts Cheat Sheet
 
+https://docs.python.org/3/library/functions.html
+
 Functions and Keywords
 Functions and keywords are the building blocks of a language’s syntax.
 
